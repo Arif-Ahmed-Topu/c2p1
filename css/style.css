@@ -1,0 +1,30 @@
+.container{ width: 1200px; margin: 0 auto; }
+.bgcolor{ background-color: black; }
+.color1{color: orange; }
+.color2{ color:white; }
+
+img{
+	max-width: 90%;
+	border-radius: 30px;
+	margin-bottom: 100px;
+	box-shadow: 5px 10px 15px black;
+}
+
+h1{ font-size: 60px;
+	text-align: center;
+	color: #333;
+	padding: 70px;
+	margin-bottom: 0;}
+p{
+	margin: 0;
+    padding: 30px;
+    font-size: 20px;
+    line-height: 1.6;
+    text-transform: capitalize;
+    text-align: justify;
+}
+.post{
+	    height: 200px;
+		width: 33.33%;
+		float: left;
+}
